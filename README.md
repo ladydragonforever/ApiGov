@@ -4,7 +4,7 @@ API data governance tool that captures client API calls, visualize and monitor d
 Refer to our [Architecture doc](./doc/architecture.md) for more details.
 
 # Why is this tool useful?
-There are various use cases that we thing this tool will be useful:
+There are various use cases that we think this tool will be useful:
 1. GDPR/CCPA requirements: the tool demonstrates what types of data being shared, any sensitive data, audit trails on the changes, dashboard on which partners are called the most and when they are used.
 2. Vendor risk: Initial data sharing with vendors are validated thru vendor contract, but any changes afterwards are difficult to capture. The tool sent alerts on any data changes or abnormal data sharing.
 3. Client API data monitoring: Good data governance of client APIs can help to get matrices on data collected and data used to make the data usage and protection more efficient. 
